@@ -15,10 +15,12 @@ We do **not** collect email addresses, payment card details, or other personal i
 - Verify identity and prevent duplicate/banned accounts.
 - Detect and prevent cheating, abuse, and ban evasion.
 - Enforce server rules and investigate incidents.
+
 ### 3. Data Sharing
 We do not sell or share your Discord ID or IP with third parties, except:
 - When required by Philippine law or legal process.
 - To prevent fraud, cheating, or harm to the Server/community.
+
 ### 4. Data Retention
 Discord ID and IP logs retained as long as needed for moderation/anticheat purposes, or until account/ban data is manually purged by staff.
  
