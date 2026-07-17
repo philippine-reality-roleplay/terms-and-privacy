@@ -25,6 +25,7 @@ No strict age limit set. Players under 18 should have parent/guardian awareness 
 - You're responsible for keeping your Discord account secure.
 - One player = one character slot policy unless staff grants exception.
 - Server reserves right to refuse, suspend, or ban access at its discretion for rule violations.
+
 ### 5. User Conduct
 Prohibited:
 - Cheating, exploiting bugs, using third-party hacks/scripts, or RPC/packet manipulation.
@@ -38,6 +39,7 @@ Violations may result in warnings, kicks, temp/permanent bans — staff decision
 - Donations are voluntary and support server costs (hosting, development).
 - Donations grant only in-server perks/cosmetics as defined at time of purchase — no real-world monetary value, not exchangeable, not refundable except where required by law.
 - Server reserves right to change or discontinue donation perks at any time.
+
 ### 7. User-Generated Content
 Roleplay content, character names, and in-game creations remain subject to Server moderation. Server may remove/edit content violating rules without notice.
  
