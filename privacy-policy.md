@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 # GTA: Philippine Reality Roleplay
 
 ## Privacy Policy
