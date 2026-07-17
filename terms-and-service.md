@@ -1,5 +1,10 @@
+---
+title: Terms of Service
+---
+
 # GTA: Philippine Reality Roleplay
-## Terms of Service & Privacy Policy
+
+## Terms of Service
  
 *Last updated: July 17, 2026*
  
